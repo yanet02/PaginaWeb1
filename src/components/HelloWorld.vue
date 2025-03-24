@@ -6,7 +6,7 @@ import esImage from '../assets/es.png'; // Asegúrate de que la imagen esté en 
   <div class="container">
     <h1>BIENVENIDO A:</h1>
     <img :src="esImage" alt="Logo" class="logo" />
-    <p>Tu auto limpio y reluciente, donde y cuando lo necesites. Con nuestra app, podrás registrarte fácilmente y explorar nuestros servicios:</p>
+    <p>Tu auto limpio y relucientes, donde y cuando lo necesites. Con nuestra app, podrás registrarte fácilmente y explorar nuestros servicios:</p>
 
     <div class="services">
       <p>🚗 Lavado Externo</p>
